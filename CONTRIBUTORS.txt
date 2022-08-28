@@ -1,1 +1,2 @@
 Sean Valeo - seanvaleo@outlook.com - original author
+Marcus Ziadé - C++ parts removed for C brevity
