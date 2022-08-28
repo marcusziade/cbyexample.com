@@ -1,3 +1,7 @@
+<p style="text-align: center;">
+<img src="assets/img/clang.png">
+</p>
+
 # C by example
   * [Hello World](#hello-world)
   * [Types](#types)
