@@ -1,19 +1,4 @@
-<p style="text-align: center;">
-<img src="assets/img/logo.png">
-</p>
-
-## Forked from https://github.com/seanvaleo/cbyexample.com
-## This version has the C++ part removed
----
-
-C is a general-purpose computer programming language.
-This guide intends to showcase some of the features and differences of the language in a user-friendly, progressive format.
-This is not a substitution for in-depth study, but should serve well as an introduction or a refresher.
-
-Inspired by <a href="https://gobyexample.com" target="_blank">Go By Example</a>, <a href="https://lotz84.github.io/haskellbyexample/" target="_blank">Haskell By Example</a>, <a href="http://jpryan.me/dartbyexample/" target="_blank">Dart By Example</a> and <a href="https://javascriptbyexample.com" target="_blank">Javascript By Example</a>.
-
-Check out the list of examples below to get started:
-
+# C by example
   * [Hello World](#hello-world)
   * [Types](#types)
   * [Initialization](#initialization)
@@ -629,6 +614,7 @@ int main() {
 	assert(x == 2); // this should break the execution of the program
 	return 0;
 }
+```
 ```
 output: int main(): Assertion `x == 2' failed. 
 ```
