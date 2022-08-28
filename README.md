@@ -2,6 +2,10 @@
 <img src="assets/img/logo.png">
 </p>
 
+## Forked from https://github.com/seanvaleo/cbyexample.com
+## This version has the C++ part removed
+---
+
 C is a general-purpose computer programming language.
 This guide intends to showcase some of the features and differences of the language in a user-friendly, progressive format.
 This is not a substitution for in-depth study, but should serve well as an introduction or a refresher.
@@ -697,7 +701,9 @@ gcc -c -std=c17 src/main.c -o obj/main.o // Compile main.c to object
 gcc -c -std=c17 include/file.c -o obj/file.o // Compile file.c to object
 gcc obj/main.o obj/file.o -o bin/prog // Link objects and create executable bin/prog
 ```
+```
 output: Cannot divide by 0
 ```
-
-Copyright &copy; 2021 Sean Valeo | [Source](https://github.com/seanvaleo/cbyexample "Source") | [Contributors](https://github.com/seanvaleo/cbyexample/blob/master/CONTRIBUTORS.txt "Contributors")
+Copyright &copy; 2022 Marcus Ziadé | [Source](https://github.com/marcusziade/cbyexample.com "Source")
+## Forked from https://github.com/seanvaleo/cbyexample.com
+## This version has the C++ part removed
